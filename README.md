@@ -134,7 +134,7 @@ This EDA provides valuable insights for:
 - **Competitive Analysis**: Benchmarking manufacturers against market trends
 
 ## Author
-**Data Analyst Project**
+**Mr.Azimil Kabir Shaikh**
 
 ## Project Date
 January 2026
